@@ -1,0 +1,43 @@
+{
+  "name": "Stephen Kiss",
+  "url": "https://www.nypl.org/blog/author/1160",
+  "number": 1160,
+  "posts": [
+    {
+      "title": "Gazpacho: A Soup For All Seasons",
+      "date": "July 17, 2015",
+      "timestamp": 1437105600,
+      "text": "Hot days call for cold soup. \u00bfPuedes decir gazpacho?",
+      "url": "https://www.nypl.org/blog/2015/07/17/gazpacho",
+      "archive": "https://web.archive.org/web/20210314025459/https://www.nypl.org/blog/2015/07/17/gazpacho",
+      "oldestArchive": "https://web.archive.org/web/20150721235622/http://www.nypl.org:80/blog/2015/07/17/gazpacho"
+    },
+    {
+      "title": "Who is Harpo Marx?",
+      "date": "June 18, 2013",
+      "timestamp": 1371528000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2013/06/18/who-is-harpo-marx",
+      "archive": "https://web.archive.org/web/20211224021414/https://www.nypl.org/blog/2013/06/18/who-is-harpo-marx",
+      "oldestArchive": "https://web.archive.org/web/20130621040438/http://www.nypl.org:80/blog/2013/06/18/who-is-harpo-marx"
+    },
+    {
+      "title": "On TV Westerns of the 1950s and '60s",
+      "date": "December 1, 2012",
+      "timestamp": 1354338000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/12/01/tv-westerns-1950s-and-60s",
+      "archive": "https://web.archive.org/web/20211224021428/https://www.nypl.org/blog/2012/12/01/tv-westerns-1950s-and-60s",
+      "oldestArchive": "https://web.archive.org/web/20121208065809/http://www.nypl.org:80/blog/2012/12/01/tv-westerns-1950s-and-60s"
+    },
+    {
+      "title": "Magic, a Fantasy... Plus Some Sources",
+      "date": "August 3, 2012",
+      "timestamp": 1343966400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/08/03/magic-fantasy-some-sources",
+      "archive": "https://web.archive.org/web/20211224021553/https://www.nypl.org/blog/2012/08/03/magic-fantasy-some-sources",
+      "oldestArchive": "https://web.archive.org/web/20120804205503/http://www.nypl.org/blog/2012/08/03/magic-fantasy-some-sources"
+    }
+  ]
+}

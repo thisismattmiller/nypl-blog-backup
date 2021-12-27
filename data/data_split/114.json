@@ -1,0 +1,592 @@
+{
+  "name": "Billy Parrott",
+  "url": "https://www.nypl.org/blog/author/114",
+  "number": 114,
+  "posts": [
+    {
+      "title": "The Jury Duty Reading List",
+      "date": "January 16, 2018",
+      "timestamp": 1516078800,
+      "text": "Have you been called to serve your civic duty? Here's a list of books you'll want to check out.",
+      "url": "https://www.nypl.org/blog/2018/01/16/jury-duty-reading-list",
+      "archive": "https://web.archive.org/web/20210312222441/https://www.nypl.org/blog/2018/01/16/jury-duty-reading-list",
+      "oldestArchive": "https://web.archive.org/web/20210312222441/https://www.nypl.org/blog/2018/01/16/jury-duty-reading-list"
+    },
+    {
+      "title": "\"The Woman in the Window\" : What to Watch Before You Read",
+      "date": "October 13, 2017",
+      "timestamp": 1507867200,
+      "text": "I\u2019m going to let you in on a little tip. There\u2019s a book coming out in January 2018 that everyone will be talking about. It\u2019s called The Woman in the Window, by A.J. Finn.",
+      "url": "https://www.nypl.org/blog/2017/10/13/woman-window-watch",
+      "archive": "https://web.archive.org/web/20211224031721/https://www.nypl.org/blog/2017/10/13/woman-window-watch",
+      "oldestArchive": "https://web.archive.org/web/20180112200241/https://www.nypl.org/blog/2017/10/13/woman-window-watch"
+    },
+    {
+      "title": "Better Late Than Never",
+      "date": "July 25, 2014",
+      "timestamp": 1406260800,
+      "text": "A recent Mental Floss article about overdue library books reminded me of a book the Mid-Manhattan Library received in the mail last year. It was mailed from Arizona. It was overdue. Its due date: August 17, 1959.",
+      "url": "https://www.nypl.org/blog/2014/07/25/better-late-never",
+      "archive": "https://web.archive.org/web/20211222031910/https://www.nypl.org/blog/2014/07/25/better-late-never",
+      "oldestArchive": "https://web.archive.org/web/20140802012034/http://www.nypl.org:80/blog/2014/07/25/better-late-never"
+    },
+    {
+      "title": "Mad Men: The Beginning of the End",
+      "date": "March 17, 2014",
+      "timestamp": 1395028800,
+      "text": "It has been a long and memorable ride, unlike any other on television. But the final season of Mad Men begins April 13. It's the beginning of the end. Whatever will be, will be. The first episode of Mad Men was set in March 1960. Season 6 ended in November 1968. That's eight years and eight months. Where does that leave us? \n\n[spoiler alert!]",
+      "url": "https://www.nypl.org/blog/2014/03/17/mad-men-beginning-end",
+      "archive": "https://web.archive.org/web/20210314153252/https://www.nypl.org/blog/2014/03/17/mad-men-beginning-end",
+      "oldestArchive": "https://web.archive.org/web/20140321065134/http://www.nypl.org:80/blog/2014/03/17/mad-men-beginning-end"
+    },
+    {
+      "title": "Rubber Band Bracelets From Your Favorite Book",
+      "date": "December 20, 2013",
+      "timestamp": 1387515600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2013/12/20/rubber-band-bracelets-from-your-favorite-book",
+      "archive": "https://web.archive.org/web/20210314154848/https://www.nypl.org/blog/2013/12/20/rubber-band-bracelets-from-your-favorite-book",
+      "oldestArchive": "https://web.archive.org/web/20140104035416/http://www.nypl.org:80/blog/2013/12/20/rubber-band-bracelets-from-your-favorite-book"
+    },
+    {
+      "title": "Number One Hits for the Year: 1979",
+      "date": "September 11, 2013",
+      "timestamp": 1378872000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2013/09/11/hits-of-1979",
+      "archive": "https://web.archive.org/web/20211224033206/https://www.nypl.org/blog/2013/09/11/hits-of-1979",
+      "oldestArchive": "https://web.archive.org/web/20130913233946/http://www.nypl.org:80/blog/2013/09/11/hits-of-1979"
+    },
+    {
+      "title": "The Wonder Years: Music and References from Season One",
+      "date": "August 9, 2013",
+      "timestamp": 1376020800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2013/08/09/wonder-years-music",
+      "archive": "https://web.archive.org/web/20211224033404/https://www.nypl.org/blog/2013/08/09/wonder-years-music",
+      "oldestArchive": "https://web.archive.org/web/20130812165050/http://www.nypl.org:80/blog/2013/08/09/wonder-years-music"
+    },
+    {
+      "title": "Mad Men on the Menu",
+      "date": "May 14, 2013",
+      "timestamp": 1368504000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2013/05/14/mad-men-menu",
+      "archive": "https://web.archive.org/web/20211224033416/https://www.nypl.org/blog/2013/05/14/mad-men-menu",
+      "oldestArchive": "https://web.archive.org/web/20130806001800/http://www.nypl.org:80/blog/2013/05/14/mad-men-menu"
+    },
+    {
+      "title": "The Neil Peart Reading List",
+      "date": "November 5, 2012",
+      "timestamp": 1352091600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/11/05/neil-peart-reading-list",
+      "archive": "https://web.archive.org/web/20210315020024/https://www.nypl.org/blog/2012/11/05/neil-peart-reading-list",
+      "oldestArchive": "https://web.archive.org/web/20121112003356/http://www.nypl.org:80/blog/2012/11/05/neil-peart-reading-list"
+    },
+    {
+      "title": "The Google Challenge: Google Images versus The Picture Collection",
+      "date": "October 11, 2012",
+      "timestamp": 1349928000,
+      "text": "Below are the four image subjects mentioned by Chris Raschka in his Caldecott acceptance speech, with comparative details for each subject as they relate to Google image search and the Picture Collection. These details include the number of images available through Google and the Picture Collection and a detailed description of the results.",
+      "url": "https://www.nypl.org/blog/2012/10/11/challenge-google-images-vs-picture-collection",
+      "archive": "https://web.archive.org/web/20210315020356/https://www.nypl.org/blog/2012/10/11/challenge-google-images-vs-picture-collection",
+      "oldestArchive": "https://web.archive.org/web/20121014005228/http://www.nypl.org:80/blog/2012/10/11/challenge-google-images-vs-picture-collection"
+    },
+    {
+      "title": "The Glen Bishop Reading List",
+      "date": "June 11, 2012",
+      "timestamp": 1339387200,
+      "text": "What books do you think Glen Bishop would read? Are there books he read when he was home alone and his mom was out taking long walks? Are there books he'd read to impress older classmates? Are there books he'd read in secrecy for fear of taunts and bullying?",
+      "url": "https://www.nypl.org/blog/2012/06/11/glen-bishop-reading-list",
+      "archive": "https://web.archive.org/web/20210315032102/https://www.nypl.org/blog/2012/06/11/glen-bishop-reading-list",
+      "oldestArchive": "https://web.archive.org/web/20120618062623/http://www.nypl.org:80/blog/2012/06/11/glen-bishop-reading-list"
+    },
+    {
+      "title": "The Bookshelves of Boardwalk Empire",
+      "date": "June 1, 2012",
+      "timestamp": 1338523200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/06/01/bookshelves-boardwalk-empire",
+      "archive": "https://web.archive.org/web/20210315041452/https://www.nypl.org/blog/2012/06/01/bookshelves-boardwalk-empire",
+      "oldestArchive": "https://web.archive.org/web/20120605031559/http://www.nypl.org:80/blog/2012/06/01/bookshelves-boardwalk-empire"
+    },
+    {
+      "title": "Inspiration in the Picture Collection: Louis Slobodkin",
+      "date": "May 14, 2012",
+      "timestamp": 1336968000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/05/14/inspiration-picture-collection-louis-slobodkin",
+      "archive": "https://web.archive.org/web/20211224034720/https://www.nypl.org/blog/2012/05/14/inspiration-picture-collection-louis-slobodkin",
+      "oldestArchive": "https://web.archive.org/web/20120617043827/http://www.nypl.org:80/blog/2012/05/14/inspiration-picture-collection-louis-slobodkin"
+    },
+    {
+      "title": "Billy Parrott, Meet Billy Parrott",
+      "date": "April 23, 2012",
+      "timestamp": 1335153600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/04/23/billy-parrott-meet-billy-parrott",
+      "archive": "https://web.archive.org/web/20210315043027/https://www.nypl.org/blog/2012/04/23/billy-parrott-meet-billy-parrott",
+      "oldestArchive": "https://web.archive.org/web/20120427055538/http://www.nypl.org/blog/2012/04/23/billy-parrott-meet-billy-parrott"
+    },
+    {
+      "title": "\"Chris in the Morning\" Reading List",
+      "date": "March 7, 2012",
+      "timestamp": 1331096400,
+      "text": "There's no need for you to tune into KBHR to find out what books to read. Here is a list of great books that Stevens read on air to the town of Cicely.",
+      "url": "https://www.nypl.org/blog/2012/03/07/chris-morning-reading-list",
+      "archive": "https://web.archive.org/web/20210416033657/https://www.nypl.org/blog/2012/03/07/chris-morning-reading-list",
+      "oldestArchive": "https://web.archive.org/web/20120308212529/http://www.nypl.org:80/blog/2012/03/07/chris-morning-reading-list"
+    },
+    {
+      "title": "The \"Mad Men\" Reading List",
+      "date": "February 27, 2012",
+      "timestamp": 1330318800,
+      "text": "UPDATE: \u00a0Click",
+      "url": "https://www.nypl.org/blog/2012/02/27/mad-men-reading-list",
+      "archive": "https://web.archive.org/web/20211224035302/https://www.nypl.org/blog/2012/02/27/mad-men-reading-list",
+      "oldestArchive": "https://web.archive.org/web/20120229011312/http://www.nypl.org:80/blog/2012/02/27/mad-men-reading-list"
+    },
+    {
+      "title": "A \"Mad Men\" Mystery Solved",
+      "date": "January 19, 2012",
+      "timestamp": 1326949200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/01/19/mad-men-mystery-solved",
+      "archive": "https://web.archive.org/web/20210315061634/https://www.nypl.org/blog/2012/01/19/mad-men-mystery-solved",
+      "oldestArchive": "https://web.archive.org/web/20120217085948/http://www.nypl.org/blog/2012/01/19/mad-men-mystery-solved"
+    },
+    {
+      "title": "Where Do You Get Your Information?",
+      "date": "November 3, 2011",
+      "timestamp": 1320292800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/11/03/where-do-you-get-your-information",
+      "archive": "https://web.archive.org/web/20210315072924/https://www.nypl.org/blog/2011/11/03/where-do-you-get-your-information",
+      "oldestArchive": "https://web.archive.org/web/20111104184921/http://www.nypl.org:80/blog/2011/11/03/where-do-you-get-your-information"
+    },
+    {
+      "title": "During and After the Credits",
+      "date": "October 17, 2011",
+      "timestamp": 1318824000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/10/17/during-and-after-credits",
+      "archive": "https://web.archive.org/web/20210311145329/https://www.nypl.org/blog/2011/10/17/during-and-after-credits",
+      "oldestArchive": "https://web.archive.org/web/20111022020125/http://www.nypl.org:80/blog/2011/10/17/during-and-after-credits"
+    },
+    {
+      "title": "The Work of Art in the Age of Digital Reproduction",
+      "date": "August 17, 2011",
+      "timestamp": 1313553600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/08/17/work-art-age-digital-reproduction",
+      "archive": "https://web.archive.org/web/20210315092719/https://www.nypl.org/blog/2011/08/17/work-art-age-digital-reproduction",
+      "oldestArchive": "https://web.archive.org/web/20120219084801/http://www.nypl.org:80/blog/2011/08/17/work-art-age-digital-reproduction"
+    },
+    {
+      "title": "The Ticketless Traveler: Outer Space!",
+      "date": "March 14, 2011",
+      "timestamp": 1300075200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/03/14/ticketless-traveler-outer-space",
+      "archive": "https://web.archive.org/web/20210311150531/https://www.nypl.org/blog/2011/03/14/ticketless-traveler-outer-space",
+      "oldestArchive": "https://web.archive.org/web/20110405131005/http://www.nypl.org:80/blog/2011/03/14/ticketless-traveler-outer-space"
+    },
+    {
+      "title": "The Battery Park City Branch Library: One Year Later",
+      "date": "February 28, 2011",
+      "timestamp": 1298869200,
+      "text": "March 15, 2011 marks the one-year anniversary of the opening of the",
+      "url": "https://www.nypl.org/blog/2011/02/28/battery-park-city-branch-library-one-year",
+      "archive": "https://web.archive.org/web/20210311150621/https://www.nypl.org/blog/2011/02/28/battery-park-city-branch-library-one-year",
+      "oldestArchive": "https://web.archive.org/web/20110612133121/http://www.nypl.org:80/blog/2011/02/28/battery-park-city-branch-library-one-year"
+    },
+    {
+      "title": "The Sally Draper Reading List",
+      "date": "February 14, 2011",
+      "timestamp": 1297659600,
+      "text": "We've seen that Sally reads Nancy Drew, but what other books do you think are on Sally Draper's bookshelf?  What books are on her library card?  What book does she lose herself in at family gatherings?",
+      "url": "https://www.nypl.org/blog/2011/02/14/sally-draper-reading-list",
+      "archive": "https://web.archive.org/web/20210315145833/https://www.nypl.org/blog/2011/02/14/sally-draper-reading-list",
+      "oldestArchive": "https://web.archive.org/web/20110219062047/http://www.nypl.org:80/blog/2011/02/14/sally-draper-reading-list"
+    },
+    {
+      "title": "Dan Smith Will Teach You Guitar",
+      "date": "November 30, 2010",
+      "timestamp": 1291093200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/11/30/dan-smith-will-teach-you-guitar",
+      "archive": "https://web.archive.org/web/20210311150827/https://www.nypl.org/blog/2010/11/30/dan-smith-will-teach-you-guitar",
+      "oldestArchive": "https://web.archive.org/web/20101203094507/http://www.nypl.org:80/blog/2010/11/30/dan-smith-will-teach-you-guitar"
+    },
+    {
+      "title": "The Heidi Game",
+      "date": "October 25, 2010",
+      "timestamp": 1287979200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/10/25/heidi-game",
+      "archive": "https://web.archive.org/web/20210831053003/https://www.nypl.org/blog/2010/10/25/heidi-game",
+      "oldestArchive": "https://web.archive.org/web/20101027100800/http://www.nypl.org:80/blog/2010/10/25/heidi-game"
+    },
+    {
+      "title": "Nordic Whodunits",
+      "date": "October 1, 2010",
+      "timestamp": 1285905600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/10/01/nordic-whodunits",
+      "archive": "https://web.archive.org/web/20210311151314/https://www.nypl.org/blog/2010/10/01/nordic-whodunits",
+      "oldestArchive": "https://web.archive.org/web/20101010095533/http://www.nypl.org:80/blog/2010/10/01/nordic-whodunits"
+    },
+    {
+      "title": "A Week in the Life of James Dean, or The Force is Strong With This One",
+      "date": "September 27, 2010",
+      "timestamp": 1285560000,
+      "text": "What if someone told you that you had one week to live? What would you do?\u00a0What places would you visit?\u00a0Would you read any books?\u00a0Listen to any particular music?\u00a0Would the common and insignificant things you pass every day become more meaningful?\u00a0Would that apple taste any better if you know it was your last one?\u00a0Who would you thank?\u00a0Who would you apologize to?",
+      "url": "https://www.nypl.org/blog/2010/09/27/weeks-time",
+      "archive": "https://web.archive.org/web/20211224040641/https://www.nypl.org/blog/2010/09/27/weeks-time",
+      "oldestArchive": "https://web.archive.org/web/20110605162902/http://www.nypl.org/blog/2010/09/27/weeks-time"
+    },
+    {
+      "title": "Mad Men Reading List",
+      "date": "September 13, 2010",
+      "timestamp": 1284350400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/09/13/mad-men-reading-list",
+      "archive": "https://web.archive.org/web/20210408144155/https://www.nypl.org/blog/2010/09/13/mad-men-reading-list",
+      "oldestArchive": "https://web.archive.org/web/20100917125736/http://www.nypl.org:80/blog/2010/09/13/mad-men-reading-list"
+    },
+    {
+      "title": "The $2 Time Machine",
+      "date": "September 9, 2010",
+      "timestamp": 1284004800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/09/09/2-dollar-time-machine",
+      "archive": "https://web.archive.org/web/20210507220943/https://www.nypl.org/blog/2010/09/09/2-dollar-time-machine",
+      "oldestArchive": "https://web.archive.org/web/20110104070904/http://www.nypl.org:80/blog/2010/09/09/2-dollar-time-machine"
+    },
+    {
+      "title": "Mistaken Identity",
+      "date": "September 1, 2010",
+      "timestamp": 1283313600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/09/01/mistaken-identity",
+      "archive": "https://web.archive.org/web/20210315043143/http://www.nypl.org/blog/2010/09/01/mistaken-identity",
+      "oldestArchive": "https://web.archive.org/web/20101228155608/http://www.nypl.org/blog/2010/09/01/mistaken-identity"
+    },
+    {
+      "title": "Leading a Double Life: Agent Zigzag",
+      "date": "June 30, 2010",
+      "timestamp": 1277870400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/06/30/agent-zigzag",
+      "archive": "https://web.archive.org/web/20211224041734/https://www.nypl.org/blog/2010/06/30/agent-zigzag",
+      "oldestArchive": "https://web.archive.org/web/20100705083809/http://www.nypl.org:80/blog/2010/06/30/agent-zigzag"
+    },
+    {
+      "title": "More on Films Within Films",
+      "date": "June 23, 2010",
+      "timestamp": 1277265600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/06/23/more-films-within-films",
+      "archive": "https://web.archive.org/web/20211224042046/https://www.nypl.org/blog/2010/06/23/more-films-within-films",
+      "oldestArchive": "https://web.archive.org/web/20100625233414/http://www.nypl.org:80/blog/2010/06/23/more-films-within-films"
+    },
+    {
+      "title": "Films Within Films",
+      "date": "June 18, 2010",
+      "timestamp": 1276833600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/06/18/films-within-films",
+      "archive": "https://web.archive.org/web/20210312042029/https://www.nypl.org/blog/2010/06/18/films-within-films",
+      "oldestArchive": "https://web.archive.org/web/20110108024848/http://www.nypl.org:80/blog/2010/06/18/films-within-films"
+    },
+    {
+      "title": "Dennis Hopper 1936-2010",
+      "date": "June 1, 2010",
+      "timestamp": 1275364800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/06/01/dennis-hopper",
+      "archive": "https://web.archive.org/web/20211224042305/https://www.nypl.org/blog/2010/06/01/dennis-hopper",
+      "oldestArchive": "https://web.archive.org/web/20100604034030/http://www.nypl.org:80/blog/2010/06/01/dennis-hopper"
+    },
+    {
+      "title": "My Library: John",
+      "date": "May 11, 2010",
+      "timestamp": 1273550400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/05/11/my-library-john",
+      "archive": "https://web.archive.org/web/20210312042150/https://www.nypl.org/blog/2010/05/11/my-library-john",
+      "oldestArchive": "https://web.archive.org/web/20120219084709/http://www.nypl.org:80/blog/2010/05/11/my-library-john"
+    },
+    {
+      "title": "Charles Schulz and Peanuts",
+      "date": "February 12, 2010",
+      "timestamp": 1265950800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/02/12/charles-schulz-and-peanuts",
+      "archive": "https://web.archive.org/web/20210311153353/https://www.nypl.org/blog/2010/02/12/charles-schulz-and-peanuts",
+      "oldestArchive": "https://web.archive.org/web/20100217063440/http://www.nypl.org:80/blog/2010/02/12/charles-schulz-and-peanuts"
+    },
+    {
+      "title": "Allen Ginsberg and the East Village",
+      "date": "February 1, 2010",
+      "timestamp": 1265000400,
+      "text": "My tour of\u00a0the downtown\u00a0branches of The New York Public Library continues!\u00a0 After being",
+      "url": "https://www.nypl.org/blog/2010/02/01/allen-ginsberg-and-east-village",
+      "archive": "https://web.archive.org/web/20211224042725/https://www.nypl.org/blog/2010/02/01/allen-ginsberg-and-east-village",
+      "oldestArchive": "https://web.archive.org/web/20100203035603/http://www.nypl.org:80/blog/2010/02/01/allen-ginsberg-and-east-village"
+    },
+    {
+      "title": "Where Is St. Marks? Investigating Place Names in the East Village",
+      "date": "January 19, 2010",
+      "timestamp": 1263877200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/01/19/where-stmarks-investigating-place-names-east-village",
+      "archive": "https://web.archive.org/web/20210311003459/https://www.nypl.org/blog/2010/01/19/where-stmarks-investigating-place-names-east-village",
+      "oldestArchive": "https://web.archive.org/web/20100122101931/http://www.nypl.org:80/blog/2010/01/19/where-stmarks-investigating-place-names-east-village"
+    },
+    {
+      "title": "Django Reinhardt Centennial Celebration - Sweet and Lowdown",
+      "date": "January 11, 2010",
+      "timestamp": 1263186000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/01/11/django-reinhardt-centennial-celebration-sweet-and-lowdown",
+      "archive": "https://web.archive.org/web/20210311003600/https://www.nypl.org/blog/2010/01/11/django-reinhardt-centennial-celebration-sweet-and-lowdown",
+      "oldestArchive": "https://web.archive.org/web/20100114082139/http://www.nypl.org:80/blog/2010/01/11/django-reinhardt-centennial-celebration-sweet-and-lowdown"
+    },
+    {
+      "title": "East Village Landmarks \u2013 96 and 98 St Marks Place",
+      "date": "January 7, 2010",
+      "timestamp": 1262840400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/01/07/east-village-landmarks-%E2%80%93-96-and-98-st-marks-place",
+      "archive": "https://web.archive.org/web/20210311204035/https://www.nypl.org/blog/2010/01/07/east-village-landmarks-%E2%80%93-96-and-98-st-marks-place",
+      "oldestArchive": "https://web.archive.org/web/20100109134400/http://www.nypl.org:80/blog/2010/01/07/east-village-landmarks-%E2%80%93-96-and-98-st-marks-place"
+    },
+    {
+      "title": "Greenwich Village Landmarks: Lester William Polsfuss (aka Les Paul)",
+      "date": "August 13, 2009",
+      "timestamp": 1250136000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/08/13/greenwich-village-landmarks-lester-william-polsfuss-aka-les-paul",
+      "archive": "https://web.archive.org/web/20211224043422/https://www.nypl.org/blog/2009/08/13/greenwich-village-landmarks-lester-william-polsfuss-aka-les-paul",
+      "oldestArchive": "https://web.archive.org/web/20100206094115/http://www.nypl.org:80/blog/2009/08/13/greenwich-village-landmarks-lester-william-polsfuss-aka-les-paul"
+    },
+    {
+      "title": "This is Water",
+      "date": "May 21, 2009",
+      "timestamp": 1242878400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/05/21/water",
+      "archive": "https://web.archive.org/web/20211224043547/https://www.nypl.org/blog/2009/05/21/water",
+      "oldestArchive": "https://web.archive.org/web/20100204213653/http://www.nypl.org:80/blog/2009/05/21/water"
+    },
+    {
+      "title": "24fps@NYPL - Blue Velvet",
+      "date": "May 15, 2009",
+      "timestamp": 1242360000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/05/15/24fpsnypl-blue-velvet",
+      "archive": "https://web.archive.org/web/20210313111651/https://www.nypl.org/blog/2009/05/15/24fpsnypl-blue-velvet",
+      "oldestArchive": "https://web.archive.org/web/20100206094109/http://www.nypl.org:80/blog/2009/05/15/24fpsnypl-blue-velvet"
+    },
+    {
+      "title": "This Day in History - Alan Smithee, Pseudonymous Filmmaker",
+      "date": "April 24, 2009",
+      "timestamp": 1240545600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/04/24/day-history-alan-smithee-pseudonymous-filmmaker",
+      "archive": "https://web.archive.org/web/20211225201551/https://www.nypl.org/blog/2009/04/24/day-history-alan-smithee-pseudonymous-filmmaker",
+      "oldestArchive": "https://web.archive.org/web/20211225060202/https://www.nypl.org/blog/2009/04/24/day-history-alan-smithee-pseudonymous-filmmaker"
+    },
+    {
+      "title": "This Day in History: Mae West and Jefferson Market",
+      "date": "April 19, 2009",
+      "timestamp": 1240113600,
+      "text": "On April 19, 1927 Mae West was convicted at The Jefferson Market Courthouse on obscenity charges for her play Sex.",
+      "url": "https://www.nypl.org/blog/2009/04/19/day-history-mae-west-and-jefferson-market",
+      "archive": "https://web.archive.org/web/20211224044221/https://www.nypl.org/blog/2009/04/19/day-history-mae-west-and-jefferson-market",
+      "oldestArchive": "https://web.archive.org/web/20100206094103/http://www.nypl.org:80/blog/2009/04/19/day-history-mae-west-and-jefferson-market"
+    },
+    {
+      "title": "National Poetry Month - 17th Annual Poets House Showcase",
+      "date": "April 1, 2009",
+      "timestamp": 1238558400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/04/01/national-poetry-month-17th-annual-poets-house-showcase",
+      "archive": "https://web.archive.org/web/20211224044238/https://www.nypl.org/blog/2009/04/01/national-poetry-month-17th-annual-poets-house-showcase",
+      "oldestArchive": "https://web.archive.org/web/20210313111839/https://www.nypl.org/blog/2009/04/01/national-poetry-month-17th-annual-poets-house-showcase"
+    },
+    {
+      "title": "This Day in History - Anatol Josepho",
+      "date": "March 31, 2009",
+      "timestamp": 1238472000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/03/31/day-history-anatol-josepho",
+      "archive": "https://web.archive.org/web/20210313111954/https://www.nypl.org/blog/2009/03/31/day-history-anatol-josepho",
+      "oldestArchive": "https://web.archive.org/web/20100206092315/http://www.nypl.org:80/blog/2009/03/31/day-history-anatol-josepho"
+    },
+    {
+      "title": "Village Landmarks: The Old Grapevine Tavern",
+      "date": "March 28, 2009",
+      "timestamp": 1238212800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/03/28/village-landmarks-old-grapevine-tavern",
+      "archive": "https://web.archive.org/web/20211019101921/https://www.nypl.org/blog/2009/03/28/village-landmarks-old-grapevine-tavern",
+      "oldestArchive": "https://web.archive.org/web/20100206092310/http://www.nypl.org:80/blog/2009/03/28/village-landmarks-old-grapevine-tavern"
+    },
+    {
+      "title": "Village Landmarks - Diane Arbus and 131 1/2 Charles Street",
+      "date": "March 14, 2009",
+      "timestamp": 1237003200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/03/14/village-landmarks-diane-arbus-and-131-12-charles-street",
+      "archive": "https://web.archive.org/web/20210313112140/https://www.nypl.org/blog/2009/03/14/village-landmarks-diane-arbus-and-131-12-charles-street",
+      "oldestArchive": "https://web.archive.org/web/20120310000650/http://www.nypl.org:80/blog/2009/03/14/village-landmarks-diane-arbus-and-131-12-charles-street"
+    },
+    {
+      "title": "Movies at Jefferson Market & My Never-Ending Jazz Checklist",
+      "date": "March 1, 2009",
+      "timestamp": 1235883600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/03/01/movies-jefferson-market-my-never-ending-jazz-checklist",
+      "archive": "https://web.archive.org/web/20211224045217/https://www.nypl.org/blog/2009/03/01/movies-jefferson-market-my-never-ending-jazz-checklist",
+      "oldestArchive": "https://web.archive.org/web/20150918004720/http://www.nypl.org/blog/2009/03/01/movies-jefferson-market-my-never-ending-jazz-checklist"
+    },
+    {
+      "title": "There\u2019s more to life than books, you know, but not much more\u2026",
+      "date": "December 10, 2008",
+      "timestamp": 1228885200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/12/10/there%E2%80%99s-more-life-books-you-know-not-much-more%E2%80%A6",
+      "archive": "https://web.archive.org/web/20210313112438/https://www.nypl.org/blog/2008/12/10/there%E2%80%99s-more-life-books-you-know-not-much-more%E2%80%A6",
+      "oldestArchive": "https://web.archive.org/web/20100703001633/http://www.nypl.org:80/blog/2008/12/10/there%E2%80%99s-more-life-books-you-know-not-much-more%E2%80%A6"
+    },
+    {
+      "title": "Literary Landmarks in the Village: \"Where the Wild Things Are\"",
+      "date": "October 24, 2008",
+      "timestamp": 1224820800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/10/24/literary-landmarks-village-where-wild-things-are",
+      "archive": "https://web.archive.org/web/20211224045613/https://www.nypl.org/blog/2008/10/24/literary-landmarks-village-where-wild-things-are",
+      "oldestArchive": "https://web.archive.org/web/20101217064325/http://www.nypl.org:80/blog/2008/10/24/literary-landmarks-village-where-wild-things-are?"
+    },
+    {
+      "title": "literary landmarks in the village: e.e. cummings",
+      "date": "October 14, 2008",
+      "timestamp": 1223956800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/10/14/literary-landmarks-village-ee-cummings",
+      "archive": "https://web.archive.org/web/20210313145210/https://www.nypl.org/blog/2008/10/14/literary-landmarks-village-ee-cummings",
+      "oldestArchive": "https://web.archive.org/web/20170704102256/http://www.nypl.org/blog/2008/10/14/literary-landmarks-village-ee-cummings"
+    },
+    {
+      "title": "100 Years Ago Today",
+      "date": "October 8, 2008",
+      "timestamp": 1223438400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/10/08/100-years-ago-today",
+      "archive": "https://web.archive.org/web/20210313145316/https://www.nypl.org/blog/2008/10/08/100-years-ago-today",
+      "oldestArchive": "https://web.archive.org/web/20151220131846/http://www.nypl.org/blog/2008/10/08/100-years-ago-today"
+    },
+    {
+      "title": "Literary Landmarks in the Village: Goodnight Moon",
+      "date": "October 2, 2008",
+      "timestamp": 1222920000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/10/02/literary-landmarks-village-goodnight-moon",
+      "archive": "https://web.archive.org/web/20210313145422/https://www.nypl.org/blog/2008/10/02/literary-landmarks-village-goodnight-moon",
+      "oldestArchive": "https://web.archive.org/web/20150131003251/http://www.nypl.org:80/blog/2008/10/02/literary-landmarks-village-goodnight-moon"
+    },
+    {
+      "title": "The Bell at Jefferson Market Branch, Part One",
+      "date": "September 10, 2008",
+      "timestamp": 1221019200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/09/10/bell-jefferson-market-branch-part-one",
+      "archive": "https://web.archive.org/web/20210313145525/https://www.nypl.org/blog/2008/09/10/bell-jefferson-market-branch-part-one",
+      "oldestArchive": "https://web.archive.org/web/20150128090955/http://www.nypl.org:80/blog/2008/09/10/bell-jefferson-market-branch-part-one"
+    },
+    {
+      "title": "100 Shadows at Jefferson Market",
+      "date": "August 26, 2008",
+      "timestamp": 1219723200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/08/26/100-shadows-jefferson-market",
+      "archive": "https://web.archive.org/web/20210313145619/https://www.nypl.org/blog/2008/08/26/100-shadows-jefferson-market",
+      "oldestArchive": "https://web.archive.org/web/20100120032809/http://www.nypl.org:80/blog/2008/08/26/100-shadows-jefferson-market"
+    },
+    {
+      "title": "Mark Your Calendars",
+      "date": "August 8, 2008",
+      "timestamp": 1218168000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/08/08/mark-your-calendars",
+      "archive": "https://web.archive.org/web/20211224051706/https://www.nypl.org/blog/2008/08/08/mark-your-calendars",
+      "oldestArchive": "https://web.archive.org/web/20210313145703/https://www.nypl.org/blog/2008/08/08/mark-your-calendars"
+    },
+    {
+      "title": "The Man Booker longlist, or What\u2019s French for \u201cHow to Blog About Books You Haven\u2019t Read\u201d?",
+      "date": "July 31, 2008",
+      "timestamp": 1217476800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/07/31/man-booker-longlist-or-what%E2%80%99s-french-%E2%80%9Chow-blog-about-books-you-haven%E2%80%99t-read%E2%80%9D",
+      "archive": "https://web.archive.org/web/20211224052050/https://www.nypl.org/blog/2008/07/31/man-booker-longlist-or-what%E2%80%99s-french-%E2%80%9Chow-blog-about-books-you-haven%E2%80%99t-read%E2%80%9D",
+      "oldestArchive": "https://web.archive.org/web/20100129173548/http://nypl.org:80/blog/2008/07/31/man-booker-longlist-or-what%E2%80%99s-french-%E2%80%9Chow-blog-about-books-you-haven%E2%80%99t-read%E2%80%9D"
+    },
+    {
+      "title": "Top 10 reasons to attend the John Cage Monday night film screenings at the Jefferson Market Library in August",
+      "date": "July 25, 2008",
+      "timestamp": 1216958400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/07/25/top-10-reasons-attend-john-cage-monday-night-film-screenings-jefferson-market-librar",
+      "archive": "https://web.archive.org/web/20211224052417/https://www.nypl.org/blog/2008/07/25/top-10-reasons-attend-john-cage-monday-night-film-screenings-jefferson-market-librar",
+      "oldestArchive": "https://web.archive.org/web/20210313145849/https://www.nypl.org/blog/2008/07/25/top-10-reasons-attend-john-cage-monday-night-film-screenings-jefferson-market-librar"
+    },
+    {
+      "title": "If A=B and B=C, then A=C, or \u201c\u2026you will thank me later.\u201d",
+      "date": "July 18, 2008",
+      "timestamp": 1216353600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/07/18/if-ab-and-bc-then-ac-or-%E2%80%9C%E2%80%A6you-will-thank-me-later%E2%80%9D",
+      "archive": "https://web.archive.org/web/20211224052600/https://www.nypl.org/blog/2008/07/18/if-ab-and-bc-then-ac-or-%E2%80%9C%E2%80%A6you-will-thank-me-later%E2%80%9D",
+      "oldestArchive": "https://web.archive.org/web/20210313145932/https://www.nypl.org/blog/2008/07/18/if-ab-and-bc-then-ac-or-%E2%80%9C%E2%80%A6you-will-thank-me-later%E2%80%9D"
+    },
+    {
+      "title": "John Cage - August Films at Jefferson Market Library",
+      "date": "July 14, 2008",
+      "timestamp": 1216008000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/07/14/john-cage-august-films-jefferson-market-library",
+      "archive": "https://web.archive.org/web/20210313150023/https://www.nypl.org/blog/2008/07/14/john-cage-august-films-jefferson-market-library",
+      "oldestArchive": "https://web.archive.org/web/20210313150023/https://www.nypl.org/blog/2008/07/14/john-cage-august-films-jefferson-market-library"
+    },
+    {
+      "title": "Black Swan Green, by David Mitchell",
+      "date": "July 7, 2008",
+      "timestamp": 1215403200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/07/07/black-swan-green-david-mitchell",
+      "archive": "https://web.archive.org/web/20211224052708/https://www.nypl.org/blog/2008/07/07/black-swan-green-david-mitchell",
+      "oldestArchive": "https://web.archive.org/web/20210313150110/https://www.nypl.org/blog/2008/07/07/black-swan-green-david-mitchell"
+    },
+    {
+      "title": "\u201cSince when do politics affect a mammal\u2019s ability to sustain a flame?\u201d",
+      "date": "July 3, 2008",
+      "timestamp": 1215057600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/07/03/%E2%80%9C-when-do-politics-affect-mammal%E2%80%99s-ability-sustain-flame%E2%80%9D",
+      "archive": "https://web.archive.org/web/20210313150155/https://www.nypl.org/blog/2008/07/03/%E2%80%9C-when-do-politics-affect-mammal%E2%80%99s-ability-sustain-flame%E2%80%9D",
+      "oldestArchive": "https://web.archive.org/web/20210313150155/https://www.nypl.org/blog/2008/07/03/%E2%80%9C-when-do-politics-affect-mammal%E2%80%99s-ability-sustain-flame%E2%80%9D"
+    },
+    {
+      "title": "Jose Garcia Villa",
+      "date": "June 25, 2008",
+      "timestamp": 1214366400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/06/25/jose-garcia-villa",
+      "archive": "https://web.archive.org/web/20211224052935/https://www.nypl.org/blog/2008/06/25/jose-garcia-villa",
+      "oldestArchive": "https://web.archive.org/web/20131203055802/http://www.nypl.org/blog/2008/06/25/jose-garcia-villa"
+    }
+  ]
+}

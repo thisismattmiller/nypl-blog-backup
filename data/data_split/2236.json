@@ -1,0 +1,25 @@
+{
+  "name": "Matt Miller",
+  "url": "https://www.nypl.org/blog/author/2236",
+  "number": 2236,
+  "posts": [
+    {
+      "title": "Nomadic Classification: Classmark History and New Browsing Tool",
+      "date": "January 27, 2016",
+      "timestamp": 1453870800,
+      "text": "Classification, the basic process of categorization, is simple in theory but becomes complex in practice. At their core these various systems of categorization are simply based on good faith judgments. Whoever organized your local grocery thought: \u201cCookies seem pretty similar to crackers, I will put them together in the same aisle.\u201d",
+      "url": "https://www.nypl.org/blog/2016/01/27/nomadic-classification-billi",
+      "archive": "https://web.archive.org/web/20211226064200/https://www.nypl.org/blog/2016/01/27/nomadic-classification-billi",
+      "oldestArchive": "https://web.archive.org/web/20160129162636/http://www.nypl.org:80/blog/2016/01/27/nomadic-classification-billi"
+    },
+    {
+      "title": "The Networked Catalog",
+      "date": "July 31, 2014",
+      "timestamp": 1406779200,
+      "text": "At NYPL Labs, we are fascinated with our catalog and the possibilities its data represents. Just as the catalog has changed in the past we wonder what other possible forms it could take today, and in the future. With this driving thought we conducted a preliminary experiment: what if the catalog had a \"See All\" button?",
+      "url": "https://www.nypl.org/blog/2014/07/31/networked-catalog",
+      "archive": "https://web.archive.org/web/20211029143919/https://www.nypl.org/blog/2014/07/31/networked-catalog",
+      "oldestArchive": "https://web.archive.org/web/20141006230109/http://www.nypl.org:80/blog/2014/07/31/networked-catalog"
+    }
+  ]
+}

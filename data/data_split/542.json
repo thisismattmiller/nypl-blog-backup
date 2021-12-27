@@ -1,0 +1,25 @@
+{
+  "name": "Tom Lisanti",
+  "url": "https://www.nypl.org/blog/author/542",
+  "number": 542,
+  "posts": [
+    {
+      "title": "William Shatner on Broadway, Before His Trek Through the Universe",
+      "date": "April 25, 2016",
+      "timestamp": 1461556800,
+      "text": "Before the voyages of the starship Enterprise, Shatner was one of the finest young Broadway actors of his time.",
+      "url": "https://www.nypl.org/blog/2016/04/25/william-shatner-before-trek",
+      "archive": "https://web.archive.org/web/20210923204348/https://www.nypl.org/blog/2016/04/25/william-shatner-before-trek",
+      "oldestArchive": "https://web.archive.org/web/20160430110020/http://www.nypl.org:80/blog/2016/04/25/william-shatner-before-trek"
+    },
+    {
+      "title": "Jill Haworth: Her Life Was a Cabaret",
+      "date": "July 13, 2012",
+      "timestamp": 1342152000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/07/13/jill-haworth-her-life-was-cabaret",
+      "archive": "https://web.archive.org/web/20121010184349/http://www.nypl.org/blog/2012/07/13/jill-haworth-her-life-was-cabaret",
+      "oldestArchive": "https://web.archive.org/web/20120717060703/http://www.nypl.org:80/blog/2012/07/13/jill-haworth-her-life-was-cabaret"
+    }
+  ]
+}

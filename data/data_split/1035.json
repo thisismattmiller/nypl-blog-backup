@@ -1,0 +1,43 @@
+{
+  "name": "Derek Ivie",
+  "url": "https://www.nypl.org/blog/author/1035",
+  "number": 1035,
+  "posts": [
+    {
+      "title": "2012 YALSA Awards",
+      "date": "January 26, 2012",
+      "timestamp": 1327554000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/01/26/2012-yalsa-awards",
+      "archive": "https://web.archive.org/web/20211225201716/https://www.nypl.org/blog/2012/01/26/2012-yalsa-awards",
+      "oldestArchive": "https://web.archive.org/web/20211225082911/https://www.nypl.org/blog/2012/01/26/2012-yalsa-awards"
+    },
+    {
+      "title": "Ellen Hopkins at TeenLIVE: Resolute Writing",
+      "date": "October 19, 2011",
+      "timestamp": 1318996800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/10/19/ellen-hopkins-teenlive-resolute-writing",
+      "archive": "https://web.archive.org/web/20111020121940/http://www.nypl.org:80/blog/2011/10/19/ellen-hopkins-teenlive-resolute-writing",
+      "oldestArchive": "https://web.archive.org/web/20111020121940/http://www.nypl.org:80/blog/2011/10/19/ellen-hopkins-teenlive-resolute-writing"
+    },
+    {
+      "title": "Take me to Modelland: Teen Live with Tyra Banks",
+      "date": "October 6, 2011",
+      "timestamp": 1317873600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/10/06/take-me-modelland-teen-live-tyra-banks",
+      "archive": "https://web.archive.org/web/20210206000341/https://www.nypl.org/blog/2011/10/06/take-me-modelland-teen-live-tyra-banks",
+      "oldestArchive": "https://web.archive.org/web/20111026210037/http://www.nypl.org/blog/2011/10/06/take-me-modelland-teen-live-tyra-banks"
+    },
+    {
+      "title": "Spring Changes: Metamorphosis in Teen Literature",
+      "date": "May 13, 2011",
+      "timestamp": 1305259200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/05/13/spring-changes",
+      "archive": "https://web.archive.org/web/20110629123838/http://www.nypl.org/blog/2011/05/13/spring-changes",
+      "oldestArchive": "https://web.archive.org/web/20110514004242/http://www.nypl.org/blog/2011/05/13/spring-changes"
+    }
+  ]
+}

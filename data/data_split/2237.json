@@ -1,0 +1,43 @@
+{
+  "name": "Shana Kimball",
+  "url": "https://www.nypl.org/blog/author/2237",
+  "number": 2237,
+  "posts": [
+    {
+      "title": "Open Audio Weekend Hackathon: Exploring Audio Accessibility for the Public Good",
+      "date": "July 7, 2016",
+      "timestamp": 1467864000,
+      "text": "On June 25 and 26, the Library welcomed developers, designers, data scientists, audio producers, and others to a two-day hackathon designed to advance the cause of audio accessibility and explore future uses of media archives online.",
+      "url": "https://www.nypl.org/blog/2016/07/07/open-audio-weekend-hackathon",
+      "archive": "https://web.archive.org/web/20211225171840/https://www.nypl.org/blog/2016/07/07/open-audio-weekend-hackathon",
+      "oldestArchive": "https://web.archive.org/web/20211225171839/https://www.nypl.org/blog/2016/07/07/open-audio-weekend-hackathon"
+    },
+    {
+      "title": "The OldNYC App Is Here! We Spoke with Its Creators",
+      "date": "May 4, 2016",
+      "timestamp": 1462334400,
+      "text": "The OldNYC experience is now available on mobile phones\u2014discover what was there at thousands of locations across Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. We talked to the developers to learn more about their work with our collections.",
+      "url": "https://www.nypl.org/blog/2016/05/04/oldnyc-app",
+      "archive": "https://web.archive.org/web/20210419050227/https://www.nypl.org/blog/2016/05/04/oldnyc-app",
+      "oldestArchive": "https://web.archive.org/web/20160509201841/http://www.nypl.org:80/blog/2016/05/04/oldnyc-app?"
+    },
+    {
+      "title": "Free for All: NYPL Enhances Public Domain Collections For Sharing and Reuse",
+      "date": "January 5, 2016",
+      "timestamp": 1451970000,
+      "text": "We are proud to announce that out-of-copyright materials in NYPL Digital Collections are now available as high-resolution downloads. No permission required, no hoops to jump through: just go forth and reuse!",
+      "url": "https://www.nypl.org/blog/2016/01/05/share-public-domain-collections",
+      "archive": "https://web.archive.org/web/20211120193612/http://www.nypl.org/blog/2016/01/05/share-public-domain-collections",
+      "oldestArchive": "https://web.archive.org/web/20160106174957/http://www.nypl.org/blog/2016/01/05/share-public-domain-collections"
+    },
+    {
+      "title": "NYPL Labs Residency with Triple Canopy",
+      "date": "October 15, 2015",
+      "timestamp": 1444881600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2015/10/15/nypl-labs-residency-triple-canopy",
+      "archive": "https://web.archive.org/web/20211225172028/https://www.nypl.org/blog/2015/10/15/nypl-labs-residency-triple-canopy",
+      "oldestArchive": "https://web.archive.org/web/20211225172028/https://www.nypl.org/blog/2015/10/15/nypl-labs-residency-triple-canopy"
+    }
+  ]
+}

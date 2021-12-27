@@ -1,0 +1,79 @@
+{
+  "name": "Chancey Fleet",
+  "url": "https://www.nypl.org/blog/author/2184",
+  "number": 2184,
+  "posts": [
+    {
+      "title": "The Five-Borough Map: A Nonvisual Design Challenge for New Yorkers",
+      "date": "December 8, 2017",
+      "timestamp": 1512709200,
+      "text": "New arrivals, students, and professionals are united in their quest for tactile maps of New York City.",
+      "url": "https://www.nypl.org/blog/2017/12/08/five-borough-map-nonvisual-design-challenge",
+      "archive": "https://web.archive.org/web/20210311011611/https://www.nypl.org/blog/2017/12/08/five-borough-map-nonvisual-design-challenge",
+      "oldestArchive": "https://web.archive.org/web/20210311011611/https://www.nypl.org/blog/2017/12/08/five-borough-map-nonvisual-design-challenge"
+    },
+    {
+      "title": "Announcing Dimensions: Community Tools for Creating Tactile Graphics & Objects",
+      "date": "October 18, 2017",
+      "timestamp": 1508299200,
+      "text": "Accessibility is more than a feature you request. It can also be something you make.",
+      "url": "https://www.nypl.org/blog/2017/10/18/dimensions-tactile-graphics-objects",
+      "archive": "https://web.archive.org/web/20211223212930/https://www.nypl.org/blog/2017/10/18/dimensions-tactile-graphics-objects",
+      "oldestArchive": "https://web.archive.org/web/20210311011710/https://www.nypl.org/blog/2017/10/18/dimensions-tactile-graphics-objects"
+    },
+    {
+      "title": "When You *Can't* Look at the Sun: Exploring the Eclipse Through Touch & Sound",
+      "date": "August 16, 2017",
+      "timestamp": 1502856000,
+      "text": "At the Andrew Heiskell Braille & Talking Book Library, we\u2019re always discovering new ways for patrons with all kinds of vision to explore information. As New Yorkers prepare for the upcoming solar eclipse on August 21, here are a few ways to experience this rare event and other celestial phenomena in an accessible way.",
+      "url": "https://www.nypl.org/blog/2017/08/16/exploring-eclipse-touch-sound",
+      "archive": "https://web.archive.org/web/20210311011951/https://www.nypl.org/blog/2017/08/16/exploring-eclipse-touch-sound",
+      "oldestArchive": "https://web.archive.org/web/20200520150544/https://www.nypl.org/blog/2017/08/16/exploring-eclipse-touch-sound"
+    },
+    {
+      "title": "Blind Innovators Build a Bridge to Accessibility",
+      "date": "June 29, 2017",
+      "timestamp": 1498708800,
+      "text": "In a world where Siri is happy to keep your calendar straight and Amazon Echo takes 24/7 requests for your favorite tunes, why not speak your mind to the blinking cursor in Microsoft Word?",
+      "url": "https://www.nypl.org/blog/2017/06/29/blind-innovators-build-bridge-accessibility",
+      "archive": "https://web.archive.org/web/20210311012126/https://www.nypl.org/blog/2017/06/29/blind-innovators-build-bridge-accessibility",
+      "oldestArchive": "https://web.archive.org/web/20170702055757/https://www.nypl.org/blog/2017/06/29/blind-innovators-build-bridge-accessibility"
+    },
+    {
+      "title": "Join Blind Arduino Workshops at the Library",
+      "date": "December 5, 2016",
+      "timestamp": 1480914000,
+      "text": "Andrew Heiskell Library is partnering with DIYAbility and the Blind Arduino Project to present hands-on workshops introducing youth and adults to nonvisual and adaptive techniques for coding and physical computing.",
+      "url": "https://www.nypl.org/blog/2016/12/05/blind-arduino-workshops",
+      "archive": "https://web.archive.org/web/20210311012352/https://www.nypl.org/blog/2016/12/05/blind-arduino-workshops",
+      "oldestArchive": "https://web.archive.org/web/20210311012352/https://www.nypl.org/blog/2016/12/05/blind-arduino-workshops"
+    },
+    {
+      "title": "Update or Wait? Tips and Links to Help You Decide",
+      "date": "September 15, 2015",
+      "timestamp": 1442289600,
+      "text": "At the Andrew Heiskell Braille and Talking Book Library, patrons often ask us whether it\u2019s a good idea to update to the latest new software release. We hope this post helps you think through your options and make the best decision you can.",
+      "url": "https://www.nypl.org/blog/2015/09/15/update-or-wait",
+      "archive": "https://web.archive.org/web/20211223213524/https://www.nypl.org/blog/2015/09/15/update-or-wait",
+      "oldestArchive": "https://web.archive.org/web/20150919035332/http://www.nypl.org:80/blog/2015/09/15/update-or-wait"
+    },
+    {
+      "title": "CSUN Recap: Accessible Tech for Workers and Entrepreneurs with Disabilities",
+      "date": "April 6, 2015",
+      "timestamp": 1428292800,
+      "text": "In early March, I attended the 30th Annual International Conference on Technology and Persons with Disabilities, better known as CSUN. This conference is one of the year\u2019s best opportunities to find out what\u2019s new and interesting in accessible technology, from business to entertainment to emerging technologies and beyond.",
+      "url": "https://www.nypl.org/blog/2015/04/06/csun-recap-accessible-tech",
+      "archive": "https://web.archive.org/web/20211223213640/https://www.nypl.org/blog/2015/04/06/csun-recap-accessible-tech",
+      "oldestArchive": "https://web.archive.org/web/20150418014509/http://www.nypl.org:80/blog/2015/04/06/csun-recap-accessible-tech"
+    },
+    {
+      "title": "Our Patrons <3 Braille",
+      "date": "February 24, 2015",
+      "timestamp": 1424754000,
+      "text": "Touching hearts with touchable, tactile Valentines at the Andrew Heiskell Braille and Talking Book Library.",
+      "url": "https://www.nypl.org/blog/2015/02/24/patrons-heart-braille",
+      "archive": "https://web.archive.org/web/20211224214311/https://www.nypl.org/blog/2015/02/24/patrons-heart-braille",
+      "oldestArchive": "https://web.archive.org/web/20150226092808/http://www.nypl.org:80/blog/2015/02/24/patrons-heart-braille"
+    }
+  ]
+}

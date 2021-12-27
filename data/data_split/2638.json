@@ -1,0 +1,16 @@
+{
+  "name": "Paul Beaudoin",
+  "url": "https://www.nypl.org/blog/author/2638",
+  "number": 2638,
+  "posts": [
+    {
+      "title": "Scribe: Toward a General Framework for Community Transcription",
+      "date": "November 23, 2015",
+      "timestamp": 1448254800,
+      "text": "Emigrant City is a bit different from the other projects we\u2019ve released in one very important way: this one is built on top of a totally new framework called Scribe.",
+      "url": "https://www.nypl.org/blog/2015/11/23/scribe-framework-community-transcription",
+      "archive": "https://web.archive.org/web/20210407161310/https://www.nypl.org/blog/2015/11/23/scribe-framework-community-transcription",
+      "oldestArchive": "https://web.archive.org/web/20151126002256/http://www.nypl.org:80/blog/2015/11/23/scribe-framework-community-transcription"
+    }
+  ]
+}

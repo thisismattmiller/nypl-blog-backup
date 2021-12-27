@@ -1,0 +1,43 @@
+{
+  "name": "Mauricio Giraldo Arteaga",
+  "url": "https://www.nypl.org/blog/author/1093",
+  "number": 1093,
+  "posts": [
+    {
+      "title": "Du papier au Web : cr\u00e9ez vos propres cartes interactives",
+      "date": "April 13, 2015",
+      "timestamp": 1428897600,
+      "text": "Comment cr\u00e9er vos propres cartes g\u00e9o-r\u00e9f\u00e9renc\u00e9es \u00e0 l\u2019aide d\u2019outils Web gratuits.",
+      "url": "https://www.nypl.org/blog/2015/04/13/du-papier-au-web-cr%C3%A9ez-vos-propres-cartes-interactives",
+      "archive": "https://web.archive.org/web/20210409163526/https://www.nypl.org/blog/2015/04/13/du-papier-au-web-cr%C3%A9ez-vos-propres-cartes-interactives",
+      "oldestArchive": "https://web.archive.org/web/20150501181327/http://www.nypl.org:80/blog/2015/04/13/du-papier-au-web-cr%C3%A9ez-vos-propres-cartes-interactives"
+    },
+    {
+      "title": "Del papel a la web: haz tus propios mapas interactivos.",
+      "date": "February 24, 2015",
+      "timestamp": 1424754000,
+      "text": "Una gu\u00eda para trabajar con varias herramientas web gratuitas para que puedas hacer tus propios mapas interactivos.",
+      "url": "https://www.nypl.org/blog/2015/02/24/del-papel-la-web-haz-tus-propios-mapas-interactivos",
+      "archive": "https://web.archive.org/web/20210314054513/https://www.nypl.org/blog/2015/02/24/del-papel-la-web-haz-tus-propios-mapas-interactivos",
+      "oldestArchive": "https://web.archive.org/web/20150226164151/http://www.nypl.org:80/blog/2015/02/24/del-papel-la-web-haz-tus-propios-mapas-interactivos"
+    },
+    {
+      "title": "From Paper Maps to the Web: A DIY Digital Maps Primer",
+      "date": "January 5, 2015",
+      "timestamp": 1420434000,
+      "text": "A primer on working with various free web mapping tools so you can make your own awesome maps.",
+      "url": "https://www.nypl.org/blog/2015/01/05/web-maps-primer",
+      "archive": "https://web.archive.org/web/20211102084534/https://www.nypl.org/blog/2015/01/05/web-maps-primer",
+      "oldestArchive": "https://web.archive.org/web/20150108041419/http://www.nypl.org/blog/2015/01/05/web-maps-primer"
+    },
+    {
+      "title": "Generative eBook Covers",
+      "date": "September 3, 2014",
+      "timestamp": 1409716800,
+      "text": "Here at NYPL Labs we\u2019re working on an ebook-borrowing and reading app. This post explores automated ways for creating covers for public-domain ebooks.",
+      "url": "https://www.nypl.org/blog/2014/09/03/generative-ebook-covers",
+      "archive": "https://web.archive.org/web/20211101121347/https://www.nypl.org/blog/2014/09/03/generative-ebook-covers",
+      "oldestArchive": "https://web.archive.org/web/20140903170953/http://www.nypl.org/blog/2014/09/03/generative-ebook-covers"
+    }
+  ]
+}

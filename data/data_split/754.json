@@ -1,0 +1,25 @@
+{
+  "name": "Doris Minder",
+  "url": "https://www.nypl.org/blog/author/754",
+  "number": 754,
+  "posts": [
+    {
+      "title": "My Library: Startasha",
+      "date": "September 2, 2010",
+      "timestamp": 1283400000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/09/02/my-library-startasha",
+      "archive": "https://web.archive.org/web/20210310020857/https://www.nypl.org/blog/2010/09/02/my-library-startasha",
+      "oldestArchive": "https://web.archive.org/web/20101213053256/http://www.nypl.org:80/blog/2010/09/02/my-library-startasha"
+    },
+    {
+      "title": "My Library: Samantha",
+      "date": "August 11, 2010",
+      "timestamp": 1281499200,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/08/11/my-library-samantha",
+      "archive": "https://web.archive.org/web/20210310020942/https://www.nypl.org/blog/2010/08/11/my-library-samantha",
+      "oldestArchive": "https://web.archive.org/web/20100819093915/http://www.nypl.org:80/blog/2010/08/11/my-library-samantha"
+    }
+  ]
+}

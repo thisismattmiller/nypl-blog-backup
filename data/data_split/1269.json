@@ -1,0 +1,106 @@
+{
+  "name": "Edwin Guzman",
+  "url": "https://www.nypl.org/blog/author/1269",
+  "number": 1269,
+  "posts": [
+    {
+      "title": "Bringing the Library to Rikers",
+      "date": "February 3, 2017",
+      "timestamp": 1486098000,
+      "text": "My experience volunteering with the mobile Library service at Rikers Island, discovering how much this service means for patrons looking for a bit of freedom from daily life.",
+      "url": "https://www.nypl.org/blog/2017/02/03/mobile-library-rikers",
+      "archive": "https://web.archive.org/web/20211224000104/https://www.nypl.org/blog/2017/02/03/mobile-library-rikers",
+      "oldestArchive": "https://web.archive.org/web/20210312152131/https://www.nypl.org/blog/2017/02/03/mobile-library-rikers"
+    },
+    {
+      "title": "Currying Functions and React Component Usage",
+      "date": "December 6, 2016",
+      "timestamp": 1481000400,
+      "text": "Learn about the functional programming technique of currying from a examples that the NYPL Digital department uses in its React applications.",
+      "url": "https://www.nypl.org/blog/2016/12/06/currying-functions",
+      "archive": "https://web.archive.org/web/20210709232737/https://www.nypl.org/blog/2016/12/06/currying-functions",
+      "oldestArchive": "https://web.archive.org/web/20210709232737/https://www.nypl.org/blog/2016/12/06/currying-functions"
+    },
+    {
+      "title": "Researching the Chicago Marathon",
+      "date": "October 4, 2016",
+      "timestamp": 1475553600,
+      "text": "The Bank of America Chicago Marathon is fast approaching. As a racer, I have pored over the current course map. As a researcher, I wanted to learn more about Chicago and the history of its Marathon. The research materials at The New York Public Library have helped me appreciate the city and the race more than ever.",
+      "url": "https://www.nypl.org/blog/2016/10/04/researching-chicago-marathon",
+      "archive": "https://web.archive.org/web/20211224000833/https://www.nypl.org/blog/2016/10/04/researching-chicago-marathon",
+      "oldestArchive": "https://web.archive.org/web/20211224000833/https://www.nypl.org/blog/2016/10/04/researching-chicago-marathon"
+    },
+    {
+      "title": "Inside the NYPL Blog Redesign",
+      "date": "September 29, 2016",
+      "timestamp": 1475121600,
+      "text": "The redesign highlights all the great blog posts from NYPL, as well as the series, channels, and authors on their own landing pages. We\u2019ll go through some issues we encountered as well as workflow improvements we got out of redesigning NYPL Blogs in React.",
+      "url": "https://www.nypl.org/blog/2016/09/29/inside-blog-redesign",
+      "archive": "https://web.archive.org/web/20211224001411/https://www.nypl.org/blog/2016/09/29/inside-blog-redesign",
+      "oldestArchive": "https://web.archive.org/web/20211224001411/https://www.nypl.org/blog/2016/09/29/inside-blog-redesign"
+    },
+    {
+      "title": "Staff Picks: Refactoring a Page into an App",
+      "date": "March 8, 2016",
+      "timestamp": 1457413200,
+      "text": "The Digital Experience team had to figure out how to update our first React application in production to organize the new data. This blog post will explain how we refactored Staff Picks with React best practices.",
+      "url": "https://www.nypl.org/blog/2016/03/08/staff-picks-refactoring-app",
+      "archive": "https://web.archive.org/web/20160912161952/http://www.nypl.org/blog/2016/03/08/staff-picks-refactoring-app",
+      "oldestArchive": "https://web.archive.org/web/20160312033613/http://www.nypl.org:80/blog/2016/03/08/staff-picks-refactoring-app"
+    },
+    {
+      "title": "Running and Reading Into the NYC Marathon and Beyond",
+      "date": "October 22, 2015",
+      "timestamp": 1445486400,
+      "text": "There are 9 days left until the 2015 TCS NYC Marathon! It\u2019s time to get your New York on and your reading on!",
+      "url": "https://www.nypl.org/blog/2015/10/22/reading-running-ultramarathons",
+      "archive": "https://web.archive.org/web/20211224002111/https://www.nypl.org/blog/2015/10/22/reading-running-ultramarathons",
+      "oldestArchive": "https://web.archive.org/web/20151024022705/http://www.nypl.org:80/blog/2015/10/22/reading-running-ultramarathons"
+    },
+    {
+      "title": "Running and Reading Into the NYC Marathon",
+      "date": "September 22, 2015",
+      "timestamp": 1442894400,
+      "text": "Books about runners and different running cultures. For children, dreams and goals start when they pick up a book at the library. Even now, I experience the same feelings picking up these running books and still get inspired to set new goals.",
+      "url": "https://www.nypl.org/blog/2015/09/22/running-reading-nyc-marathon",
+      "archive": "https://web.archive.org/web/20210313200656/https://www.nypl.org/blog/2015/09/22/running-reading-nyc-marathon",
+      "oldestArchive": "https://web.archive.org/web/20150925025906/http://www.nypl.org:80/blog/2015/09/22/running-reading-nyc-marathon"
+    },
+    {
+      "title": "Book Recommendations on Node.js and React",
+      "date": "August 27, 2015",
+      "timestamp": 1440648000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2015/08/27/staff-picks-node-js-react",
+      "archive": "https://web.archive.org/web/20210313215604/https://www.nypl.org/blog/2015/08/27/staff-picks-node-js-react",
+      "oldestArchive": "https://web.archive.org/web/20150831090921/http://www.nypl.org:80/blog/2015/08/27/staff-picks-node-js-react"
+    },
+    {
+      "title": "Unit Testing AngularJS Modules",
+      "date": "July 14, 2015",
+      "timestamp": 1436846400,
+      "text": "The front-end team in the Digital Experience department encourages testing the code we write so we can deploy quality applications. This post will focus on setting up any AngularJS module's environment for unit testing, adding mocked data, setting up coverage for the source code, and using ES6 for the source and unit tests.",
+      "url": "https://www.nypl.org/blog/2015/07/14/unit-testing-angular-js",
+      "archive": "https://web.archive.org/web/20160912163841/http://www.nypl.org/blog/2015/07/14/unit-testing-angular-js",
+      "oldestArchive": "https://web.archive.org/web/20150722024751/http://www.nypl.org:80/blog/2015/07/14/unit-testing-angular-js"
+    },
+    {
+      "title": "Upgrading Front-End Apps to AngularJS 1.3",
+      "date": "April 6, 2015",
+      "timestamp": 1428292800,
+      "text": "When the Digital Experience team began working on updating the Research Divisions page, we decided to use the newer AngularJS 1.3 version. When we decided to upgrade from the 1.2 version to the 1.3 version for the larger Locations project, the front-end team ran into large code changes, different coding styles, and best practice decisions we had to discuss.",
+      "url": "https://www.nypl.org/blog/2015/04/06/upgrading-angularjs-1-3",
+      "archive": "https://web.archive.org/web/20210314022746/https://www.nypl.org/blog/2015/04/06/upgrading-angularjs-1-3",
+      "oldestArchive": "https://web.archive.org/web/20150408232139/http://www.nypl.org:80/blog/2015/04/06/upgrading-angularjs-1-3"
+    },
+    {
+      "title": "AngularJS E2E Testing for the New Locations Section",
+      "date": "December 3, 2014",
+      "timestamp": 1417582800,
+      "text": "The new Locations section of nypl.org is built with AngularJS. To test the correctness of the site and user interaction, we ran end-to-end (E2E) tests using Protractor. This is a brief overview of how we used Protractor to run E2E tests on the Locations application.",
+      "url": "https://www.nypl.org/blog/2014/12/03/angularjs-e2e-tests-locations",
+      "archive": "https://web.archive.org/web/20210314084934/https://www.nypl.org/blog/2014/12/03/angularjs-e2e-tests-locations",
+      "oldestArchive": "https://web.archive.org/web/20150228003609/http://www.nypl.org:80/blog/2014/12/03/angularjs-e2e-tests-locations"
+    }
+  ]
+}

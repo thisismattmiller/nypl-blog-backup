@@ -1,0 +1,25 @@
+{
+  "name": "Alexander Duryee",
+  "url": "https://www.nypl.org/blog/author/2900",
+  "number": 2900,
+  "posts": [
+    {
+      "title": "Implementing ArchivesSpace at NYPL: Part 2",
+      "date": "January 19, 2018",
+      "timestamp": 1516338000,
+      "text": "The Archives Unit provides an inside look at their implementation of the ArchivesSpace data management system. If you're fascinated by archive and data storage, this post is for you.",
+      "url": "https://www.nypl.org/blog/2018/01/19/implementing-archivesspace-nypl-part-2",
+      "archive": "https://web.archive.org/web/20180202184325/https://www.nypl.org/blog/2018/01/19/implementing-archivesspace-nypl-part-2",
+      "oldestArchive": "https://web.archive.org/web/20180123161021/https://www.nypl.org/blog/2018/01/19/implementing-archivesspace-nypl-part-2"
+    },
+    {
+      "title": "Implementing ArchivesSpace at NYPL: Part 1",
+      "date": "March 8, 2017",
+      "timestamp": 1488949200,
+      "text": "In 2014, the Archives Unit at The New York Public Library began its evaluation of ArchivesSpace.  Following a rigorous review of the application, we began implementation in earnest in 2016, and started using it in production earlier this year.",
+      "url": "https://www.nypl.org/blog/2017/03/08/implementing-archivesspace-nypl-part-1",
+      "archive": "https://web.archive.org/web/20200522113047/https://www.nypl.org/blog/2017/03/08/implementing-archivesspace-nypl-part-1",
+      "oldestArchive": "https://web.archive.org/web/20170506065604/https://www.nypl.org/blog/2017/03/08/implementing-archivesspace-nypl-part-1"
+    }
+  ]
+}

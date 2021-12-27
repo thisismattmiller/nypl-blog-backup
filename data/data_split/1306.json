@@ -1,0 +1,34 @@
+{
+  "name": "Mishka Vance",
+  "url": "https://www.nypl.org/blog/author/1306",
+  "number": 1306,
+  "posts": [
+    {
+      "title": "Maps, Wayfinding, and the Discovery of Longitude",
+      "date": "June 18, 2021",
+      "timestamp": 1623988800,
+      "text": "The discovery of an accurate and reliable method of determining longitude took four centuries of study. Without this and other innovations in pre-modern navigation, we\u2019d be lost.",
+      "url": "https://www.nypl.org/blog/2021/06/18/maps-wayfinding-and-discovery-longitude",
+      "archive": "https://web.archive.org/web/20211224183216/https://www.nypl.org/blog/2021/06/18/maps-wayfinding-and-discovery-longitude",
+      "oldestArchive": "https://web.archive.org/web/20210618161424/https://www.nypl.org/blog/2021/06/18/maps-wayfinding-and-discovery-longitude"
+    },
+    {
+      "title": "How to Find Old Maps by Location with Map Warper",
+      "date": "March 14, 2019",
+      "timestamp": 1552536000,
+      "text": "Using the New York Public Library's Map Warper, map lovers and history buffs can find old maps by their location, and align them with present-day locations.",
+      "url": "https://www.nypl.org/blog/2019/03/14/finding-old-maps-map-warper",
+      "archive": "https://web.archive.org/web/20210310032352/https://www.nypl.org/blog/2019/03/14/finding-old-maps-map-warper",
+      "oldestArchive": "https://web.archive.org/web/20210118112259/https://www.nypl.org/blog/2019/03/14/finding-old-maps-map-warper"
+    },
+    {
+      "title": "Citizen Cartography: No April Foolin'",
+      "date": "April 7, 2016",
+      "timestamp": 1460001600,
+      "text": "Spring has sprung and new maps have been added to the NYPL Map Warper. No joke!",
+      "url": "https://www.nypl.org/blog/2016/04/07/citizen-cartography-april",
+      "archive": "https://web.archive.org/web/20211224182823/https://www.nypl.org/blog/2016/04/07/citizen-cartography-april",
+      "oldestArchive": "https://web.archive.org/web/20160411132857/http://www.nypl.org:80/blog/2016/04/07/citizen-cartography-april"
+    }
+  ]
+}

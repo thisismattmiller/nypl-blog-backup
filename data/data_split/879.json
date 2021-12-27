@@ -1,0 +1,25 @@
+{
+  "name": "Susan Hansen",
+  "url": "https://www.nypl.org/blog/author/879",
+  "number": 879,
+  "posts": [
+    {
+      "title": "Kids and Smiles: Reading to Children with Special Needs",
+      "date": "May 24, 2011",
+      "timestamp": 1306209600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2011/05/24/kids-and-smiles",
+      "archive": "https://web.archive.org/web/20211226062649/https://www.nypl.org/blog/2011/05/24/kids-and-smiles",
+      "oldestArchive": "https://web.archive.org/web/20110608120700/http://www.nypl.org:80/blog/2011/05/24/kids-and-smiles"
+    },
+    {
+      "title": "Mom, I'm Bored: Staten Island Summer Fun",
+      "date": "August 3, 2010",
+      "timestamp": 1280808000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/08/03/mom-im-bored",
+      "archive": "https://web.archive.org/web/20210311093048/https://www.nypl.org/blog/2010/08/03/mom-im-bored",
+      "oldestArchive": "https://web.archive.org/web/20100806181659/http://www.nypl.org:80/blog/2010/08/03/mom-im-bored"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Michelle Chan",
+  "url": "https://www.nypl.org/blog/author/902",
+  "number": 902,
+  "posts": [
+    {
+      "title": "Mean Streets to Green Streets",
+      "date": "September 1, 2010",
+      "timestamp": 1283313600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/09/01/mean-streets-green-streets",
+      "archive": "https://web.archive.org/web/20210314171142/https://www.nypl.org/blog/2010/09/01/mean-streets-green-streets",
+      "oldestArchive": "https://web.archive.org/web/20100903160001/http://www.nypl.org:80/blog/2010/09/01/mean-streets-green-streets"
+    },
+    {
+      "title": "Rats with Wings: A Love Story",
+      "date": "August 13, 2010",
+      "timestamp": 1281672000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/08/13/rats-wings-love-story",
+      "archive": "https://web.archive.org/web/20210314171410/https://www.nypl.org/blog/2010/08/13/rats-wings-love-story",
+      "oldestArchive": "https://web.archive.org/web/20100818035630/http://www.nypl.org:80/blog/2010/08/13/rats-wings-love-story"
+    }
+  ]
+}

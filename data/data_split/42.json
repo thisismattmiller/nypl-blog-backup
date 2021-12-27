@@ -1,0 +1,43 @@
+{
+  "name": "Susan Chute",
+  "url": "https://www.nypl.org/blog/author/42",
+  "number": 42,
+  "posts": [
+    {
+      "title": "POP! goes the Picture Collection: Warhol at NYPL",
+      "date": "September 9, 2010",
+      "timestamp": 1284004800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2010/09/09/pop-goes-picture-collection-warhol",
+      "archive": "https://web.archive.org/web/20151001174716/http://www.nypl.org/blog/2010/09/09/pop-goes-picture-collection-warhol",
+      "oldestArchive": "https://web.archive.org/web/20100911154321/http://www.nypl.org:80/blog/2010/09/09/pop-goes-picture-collection-warhol"
+    },
+    {
+      "title": "A Train Ride Through Time: An Exhibit of New Year's Greetings from the Picture Collection",
+      "date": "December 29, 2009",
+      "timestamp": 1262062800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2009/12/29/trainride-through-time-exhibit-new-years-greetings-picture-collection",
+      "archive": "https://web.archive.org/web/20160103234521/http://www.nypl.org:80/blog/2009/12/29/trainride-through-time-exhibit-new-years-greetings-picture-collection",
+      "oldestArchive": "https://web.archive.org/web/20100115011259/http://www.nypl.org:80/blog/2009/12/29/trainride-through-time-exhibit-new-years-greetings-picture-collection"
+    },
+    {
+      "title": "A Ghostly Tale",
+      "date": "April 1, 2008",
+      "timestamp": 1207022400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/04/01/ghostly-tale",
+      "archive": "https://web.archive.org/web/20211225003324/https://www.nypl.org/blog/2008/04/01/ghostly-tale",
+      "oldestArchive": "https://web.archive.org/web/20211224215608/https://www.nypl.org/blog/2008/04/01/ghostly-tale"
+    },
+    {
+      "title": "Bravery: Aperture Photographer Gillian Laub at the Library",
+      "date": "November 27, 2007",
+      "timestamp": 1196139600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2007/11/27/bravery-aperture-photographer-gillian-laub-library",
+      "archive": "https://web.archive.org/web/20211224215807/https://www.nypl.org/blog/2007/11/27/bravery-aperture-photographer-gillian-laub-library",
+      "oldestArchive": "https://web.archive.org/web/20211224215807/https://www.nypl.org/blog/2007/11/27/bravery-aperture-photographer-gillian-laub-library"
+    }
+  ]
+}

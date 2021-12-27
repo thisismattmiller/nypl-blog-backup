@@ -1,0 +1,25 @@
+{
+  "name": "Alice Hudson",
+  "url": "https://www.nypl.org/blog/author/39",
+  "number": 39,
+  "posts": [
+    {
+      "title": "Map Division in the Media",
+      "date": "November 29, 2008",
+      "timestamp": 1227934800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2008/11/29/map-division-media",
+      "archive": "https://web.archive.org/web/20211224193852/https://www.nypl.org/blog/2008/11/29/map-division-media",
+      "oldestArchive": "https://web.archive.org/web/20211224193852/https://www.nypl.org/blog/2008/11/29/map-division-media"
+    },
+    {
+      "title": "Five Points",
+      "date": "August 29, 2007",
+      "timestamp": 1188360000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2007/08/29/five-points",
+      "archive": "https://web.archive.org/web/20211224194429/https://www.nypl.org/blog/2007/08/29/five-points",
+      "oldestArchive": "https://web.archive.org/web/20120617043822/http://www.nypl.org:80/blog/2007/08/29/five-points"
+    }
+  ]
+}

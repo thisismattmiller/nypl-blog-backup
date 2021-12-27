@@ -1,0 +1,34 @@
+{
+  "name": "Bert Spaan",
+  "url": "https://www.nypl.org/blog/author/2929",
+  "number": 2929,
+  "posts": [
+    {
+      "title": "Get NYPL Digital Collections Tab for Your Browser",
+      "date": "August 31, 2017",
+      "timestamp": 1504152000,
+      "text": "NYPL's new browser extension shows a curated image of New York City every time you open a new tab. Know where in New York City the photo was taken? With just a few clicks, you can geotag the image and help enhance NYPL's collections.",
+      "url": "https://www.nypl.org/blog/2017/08/31/digital-collections-tab",
+      "archive": "https://web.archive.org/web/20210413175343/https://www.nypl.org/blog/2017/08/31/digital-collections-tab",
+      "oldestArchive": "https://web.archive.org/web/20190121092713/https://www.nypl.org/blog/2017/08/31/digital-collections-tab"
+    },
+    {
+      "title": "Surveyor Geotagging Tool Puts NYPL Photos on the Map",
+      "date": "July 7, 2017",
+      "timestamp": 1499400000,
+      "text": "We're releasing Surveyor with one goal in mind: to make it easier to find NYPL's digitized photos by the location where they were taken.",
+      "url": "https://www.nypl.org/blog/2017/07/07/surveyor-photos-map",
+      "archive": "https://web.archive.org/web/20211224202534/https://www.nypl.org/blog/2017/07/07/surveyor-photos-map",
+      "oldestArchive": "https://web.archive.org/web/20170903190954/https://www.nypl.org/blog/2017/07/07/surveyor-photos-map"
+    },
+    {
+      "title": "The NYC Space/Time Directory: Building the Future of NYC\u2019s Past",
+      "date": "April 7, 2017",
+      "timestamp": 1491537600,
+      "text": "Two years ago, we had a crazy idea: what if we could make the maps of New York City\u2019s past work like the maps of today?",
+      "url": "https://www.nypl.org/blog/2017/04/07/nyc-spacetime-directory",
+      "archive": "https://web.archive.org/web/20211214220423/https://www.nypl.org/blog/2017/04/07/nyc-spacetime-directory",
+      "oldestArchive": "https://web.archive.org/web/20170509022053/https://www.nypl.org/blog/2017/04/07/nyc-spacetime-directory"
+    }
+  ]
+}

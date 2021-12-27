@@ -1,0 +1,43 @@
+{
+  "name": "Emily Nichols",
+  "url": "https://www.nypl.org/blog/author/1078",
+  "number": 1078,
+  "posts": [
+    {
+      "title": "Online Tools for All Ages",
+      "date": "March 11, 2020",
+      "timestamp": 1583899200,
+      "text": "The New York Public Library has loads of resources available.",
+      "url": "https://www.nypl.org/blog/2020/03/11/online-tools-all-ages",
+      "archive": "https://web.archive.org/web/20211225180127/https://www.nypl.org/blog/2020/03/11/online-tools-all-ages",
+      "oldestArchive": "https://web.archive.org/web/20211225092044/https://www.nypl.org/blog/2020/03/11/online-tools-all-ages"
+    },
+    {
+      "title": "Creepy Carrots With a Message: Writing Well for Children",
+      "date": "December 31, 2012",
+      "timestamp": 1356930000,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/12/31/creepy-carrots-message",
+      "archive": "https://web.archive.org/web/20210312061021/https://www.nypl.org/blog/2012/12/31/creepy-carrots-message",
+      "oldestArchive": "https://web.archive.org/web/20130104135944/http://www.nypl.org:80/blog/2012/12/31/creepy-carrots-message"
+    },
+    {
+      "title": "Personal Finance Reading Recommendations",
+      "date": "October 25, 2012",
+      "timestamp": 1351137600,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/10/25/personal-finance-reading",
+      "archive": "https://web.archive.org/web/20210312061059/https://www.nypl.org/blog/2012/10/25/personal-finance-reading",
+      "oldestArchive": "https://web.archive.org/web/20141104194350/http://www.nypl.org:80/blog/2012/10/25/personal-finance-reading"
+    },
+    {
+      "title": "Books for the Slow Cook",
+      "date": "February 17, 2012",
+      "timestamp": 1329454800,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2012/02/17/books-slow-cook",
+      "archive": "https://web.archive.org/web/20211225152248/https://www.nypl.org/blog/2012/02/17/books-slow-cook",
+      "oldestArchive": "https://web.archive.org/web/20120304065954/http://www.nypl.org:80/blog/2012/02/17/books-slow-cook?"
+    }
+  ]
+}

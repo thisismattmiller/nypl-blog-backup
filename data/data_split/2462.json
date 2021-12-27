@@ -1,0 +1,34 @@
+{
+  "name": "Frank Migliorelli",
+  "url": "https://www.nypl.org/blog/author/2462",
+  "number": 2462,
+  "posts": [
+    {
+      "title": "We're Listening: Log In Feature Added to Website Navigation",
+      "date": "October 23, 2015",
+      "timestamp": 1445572800,
+      "text": "Today we've released a new version of our website navigation that includes a log in feature.",
+      "url": "https://www.nypl.org/blog/2015/10/23/login-feature-added",
+      "archive": "https://web.archive.org/web/20160706101614/http://www.nypl.org:80/blog/2015/10/23/login-feature-added",
+      "oldestArchive": "https://web.archive.org/web/20151025113250/http://www.nypl.org:80/blog/2015/10/23/login-feature-added"
+    },
+    {
+      "title": "Introducing New Navigation Across nypl.org",
+      "date": "October 13, 2015",
+      "timestamp": 1444708800,
+      "text": "This week, we\u2019ll be unveiling a new feature across the NYPL website: redesigned navigation menus that will improve the overall organization of the site and help you find what you're looking for more easily.",
+      "url": "https://www.nypl.org/blog/2015/10/09/introducing-new-navigation",
+      "archive": "https://web.archive.org/web/20151118205750/http://www.nypl.org:80/blog/2015/10/09/introducing-new-navigation",
+      "oldestArchive": "https://web.archive.org/web/20151018021352/http://www.nypl.org:80/blog/2015/10/09/introducing-new-navigation"
+    },
+    {
+      "title": "The Transformation of nypl.org",
+      "date": "June 15, 2015",
+      "timestamp": 1434340800,
+      "text": "We need to rebuild, redesign, and reorganize. We\u2019ve launched a web redevelopment project that will take us into next year and allow us to begin offering new interfaces, new online tools, and new ways for you to interact with NYPL.",
+      "url": "https://www.nypl.org/blog/2015/06/15/transformation-nypl-website",
+      "archive": "https://web.archive.org/web/20211224201913/https://www.nypl.org/blog/2015/06/15/transformation-nypl-website",
+      "oldestArchive": "https://web.archive.org/web/20150624172523/http://www.nypl.org:80/blog/2015/06/15/transformation-nypl-website?"
+    }
+  ]
+}

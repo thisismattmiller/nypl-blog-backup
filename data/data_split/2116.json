@@ -1,0 +1,25 @@
+{
+  "name": "John Balow",
+  "url": "https://www.nypl.org/blog/author/2116",
+  "number": 2116,
+  "posts": [
+    {
+      "title": "One Giant Leap for Mankind: Finding Moon Landing Reports at the Library",
+      "date": "July 18, 2014",
+      "timestamp": 1405656000,
+      "text": "Government documents of the moon landing can be found at the Science, Industry and Business Library.",
+      "url": "https://www.nypl.org/blog/2014/07/18/moon-landing-govdocs",
+      "archive": "https://web.archive.org/web/20210315022123/https://www.nypl.org/blog/2014/07/18/moon-landing-govdocs",
+      "oldestArchive": "https://web.archive.org/web/20141115232311/http://www.nypl.org/blog/2014/07/18/moon-landing-govdocs"
+    },
+    {
+      "title": "20 of the Most Important Books for Economics before 1940",
+      "date": "June 18, 2014",
+      "timestamp": 1403064000,
+      "text": "...and where you can read (most of) them without leaving your computer screen.",
+      "url": "https://www.nypl.org/blog/2014/06/18/20-important-books-economics-pre-1940",
+      "archive": "https://web.archive.org/web/20210510155534/https://www.nypl.org/blog/2014/06/18/20-important-books-economics-pre-1940",
+      "oldestArchive": "https://web.archive.org/web/20140624082752/http://www.nypl.org:80/blog/2014/06/18/20-important-books-economics-pre-1940"
+    }
+  ]
+}

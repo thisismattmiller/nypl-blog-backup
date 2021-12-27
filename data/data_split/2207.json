@@ -1,0 +1,16 @@
+{
+  "name": "Brian Foo",
+  "url": "https://www.nypl.org/blog/author/2207",
+  "number": 2207,
+  "posts": [
+    {
+      "title": "Peeling Off The Painted Layers of NYC Walls: Experiments With The Google Street View Archive",
+      "date": "June 24, 2014",
+      "timestamp": 1403582400,
+      "text": "",
+      "url": "https://www.nypl.org/blog/2014/06/24/peeling-painted-layers-nyc-google-street-view",
+      "archive": "https://web.archive.org/web/20211101215607/https://www.nypl.org/blog/2014/06/24/peeling-painted-layers-nyc-google-street-view",
+      "oldestArchive": "https://web.archive.org/web/20140625065128/http://www.nypl.org/blog/2014/06/24/peeling-painted-layers-nyc-google-street-view"
+    }
+  ]
+}
